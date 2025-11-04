@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-portfolio-app/static/css/main.7b05662b.css",
-    "main.js": "/my-portfolio-app/static/js/main.1784045a.js",
-    "static/js/453.8717ebfe.chunk.js": "/my-portfolio-app/static/js/453.8717ebfe.chunk.js",
-    "static/media/boing2.mp3": "/my-portfolio-app/static/media/boing2.e686f6ea8bf726e38ad0.mp3",
-    "static/media/audio_icon_dev.jpg": "/my-portfolio-app/static/media/audio_icon_dev.bc8a937035e8e62971bb.jpg",
-    "static/media/boing.mp3": "/my-portfolio-app/static/media/boing.6d630ca2583e93b9edde.mp3",
-    "index.html": "/my-portfolio-app/index.html",
-    "main.7b05662b.css.map": "/my-portfolio-app/static/css/main.7b05662b.css.map",
-    "main.1784045a.js.map": "/my-portfolio-app/static/js/main.1784045a.js.map",
-    "453.8717ebfe.chunk.js.map": "/my-portfolio-app/static/js/453.8717ebfe.chunk.js.map"
+    "main.css": "./static/css/main.7b05662b.css",
+    "main.js": "./static/js/main.b6ec8f7f.js",
+    "static/js/453.8717ebfe.chunk.js": "./static/js/453.8717ebfe.chunk.js",
+    "static/media/boing2.mp3": "./static/media/boing2.e686f6ea8bf726e38ad0.mp3",
+    "static/media/audio_icon_dev.jpg": "./static/media/audio_icon_dev.bc8a937035e8e62971bb.jpg",
+    "static/media/boing.mp3": "./static/media/boing.6d630ca2583e93b9edde.mp3",
+    "index.html": "./index.html",
+    "main.7b05662b.css.map": "./static/css/main.7b05662b.css.map",
+    "main.b6ec8f7f.js.map": "./static/js/main.b6ec8f7f.js.map",
+    "453.8717ebfe.chunk.js.map": "./static/js/453.8717ebfe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b05662b.css",
-    "static/js/main.1784045a.js"
+    "static/js/main.b6ec8f7f.js"
   ]
 }
